@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.phonestore.dao"},{"l":"edu.phonestore.helper"},{"l":"edu.phonestore.model"},{"l":"edu.phonestore.swing"},{"l":"edu.phonestore.ui"},{"l":"edu.phonestore.utils"}];updateSearchResults();
